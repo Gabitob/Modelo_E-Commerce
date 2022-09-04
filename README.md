@@ -11,3 +11,7 @@ O objetivo é conter informações essenciais para o funcionamento de DB e respo
 - Fornecedor e/ou fornecedor terceiro
 - O produto comprado e sua quantidade
 - E o estoque
+
+<div style="display: inline_block">
+  <img align="center" alt="Modelo E-commerce" src="https://media.discordapp.net/attachments/1006720932477403200/1016082824043966556/Modelo_E-Commerce.png?width=378&height=493" >
+</div>
